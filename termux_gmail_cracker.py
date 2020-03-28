@@ -8,7 +8,7 @@ os.system("pkg install figlet")
 os.system("pkg install hydra")
 os.system("pkg install crunch")
 os.system("clear")
-os.system("figlet cracker")
+os.system("figlet cracker")termux_gmail_cracker.py
 print("""
 Bu Araç Gmail Hesaplarına Yönelik Kaba Kuvvet Saldırısı Düzenleyebilir. Başkalarının Hesaplarına Yönelik İşlem Yapmak Yasaktır ve Suçtur.
 
